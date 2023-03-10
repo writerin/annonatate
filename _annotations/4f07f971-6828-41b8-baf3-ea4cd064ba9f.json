@@ -1,0 +1,30 @@
+---
+canvas: "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Zeus",
+            "purpose": "commenting",
+            "creator": {
+                "id": "writerin",
+                "name": "writerin"
+            },
+            "created": "2023-03-10T08:35:45.080Z",
+            "modified": "2023-03-10T08:36:07.020Z"
+        }
+    ],
+    "target": {
+        "source": "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"13736.7216796875\" cy=\"1882.1151123046875\" r=\"1471.3697595857502\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4f07f971-6828-41b8-baf3-ea4cd064ba9f.json",
+    "motivation": "commenting"
+}
